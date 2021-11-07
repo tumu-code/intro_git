@@ -1,1 +1,5 @@
 githubを学習
+
+git add
+
+git commit
