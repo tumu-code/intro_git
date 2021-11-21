@@ -9,3 +9,7 @@ git rm
 git status
 
 git commit --amend
+
+git branch (ブランチ名)//ブランチの作成
+
+git checkout breanch名 //ブランチの切り替え
